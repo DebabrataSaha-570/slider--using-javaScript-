@@ -1,1 +1,0 @@
-# slider--using-javaScript-
